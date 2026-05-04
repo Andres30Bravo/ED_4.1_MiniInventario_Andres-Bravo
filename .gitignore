@@ -1,4 +1,13 @@
+# IntelliJ IDEA
 .idea/
+*.iml
+
+# Salidas de compilación
 out/
+build/
+target/
 *.class
-.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db

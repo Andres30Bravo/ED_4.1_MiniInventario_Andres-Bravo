@@ -1,6 +1,11 @@
 # MiniInventario
-Proyecto de la asignatura ED.
+
+Aplicación de consola en Java para practicar Git y GitHub.
+
 ## Requisitos
-- Java JDK 17 o superior.
+- Java
+- IntelliJ IDEA
+- Git
+
 ## Ejecución
-- javac src/Main.java && java -cp src Main
+Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.
